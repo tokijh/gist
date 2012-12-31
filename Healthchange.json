@@ -16,28 +16,32 @@
                   "type" : "byte",
                   "title" : "Enter number of health",
                   "info" : "Enter the number of health. Write in Hex. Limit the range 00-FF."
-            },
+            }
+        },
         "Zombie": {
             "129BB0": {
                   "type" : "byte",
                   "title" : "Enter number of health",
                   "info" : "Enter the number of health. Write in Hex. Limit the range 00-FF."
-            },
+            }
+        },
         "Spider": {
             "1297c4": {
                   "type" : "byte",
                   "title" : "Enter number of health",
                   "info" : "Enter the number of health. Write in Hex. Limit the range 00-FF."
-            },
+            }
+        },
         "Skeleton": {
             "129180": {
                   "type" : "byte",
                   "title" : "Enter number of health",
                   "info" : "Enter the number of health. Write in Hex. Limit the range 00-FF."
-            },
+            }
+        },
 
             
             
-        }
     }
+    
 }
