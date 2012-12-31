@@ -1,0 +1,43 @@
+{
+    "title": "Health change for 0.5.0",
+    "version": 1,
+    "author": "mahoon2",
+    "target": "/data/data/com.mojang.minecraftpe/lib/libminecraftpe.so",
+    "root": true,
+    "initial": {
+        "12853c" : ["10"],
+        "129BB0": ["0C"],
+        "1297c4" : ["08"],
+        "129180" : ["0A"],
+    },
+    "options": {
+        "Creeper": {
+            "12853c": {
+                  "type" : "byte",
+                  "title" : "Enter number of health",
+                  "info" : "Enter the number of health. Write in Hex. Limit the range 00-FF."
+            },
+        "Zombie": {
+            "129BB0": {
+                  "type" : "byte",
+                  "title" : "Enter number of health",
+                  "info" : "Enter the number of health. Write in Hex. Limit the range 00-FF."
+            },
+        "Spider": {
+            "1297c4": {
+                  "type" : "byte",
+                  "title" : "Enter number of health",
+                  "info" : "Enter the number of health. Write in Hex. Limit the range 00-FF."
+            },
+        "Skeleton": {
+            "129180": {
+                  "type" : "byte",
+                  "title" : "Enter number of health",
+                  "info" : "Enter the number of health. Write in Hex. Limit the range 00-FF."
+            },
+
+            
+            
+        }
+    }
+}
